@@ -17,6 +17,7 @@ source 'https://rubygems.org'
  gem 'coffee-rails', '~> 4.1.0'
  gem 'jquery-rails'
  gem 'turbolinks'
+ gem 'bootstrap-sass', '3.2.0.2'
  gem 'bootstrap'
  gem 'figaro'
  gem 'pry'
@@ -30,3 +31,4 @@ source 'https://rubygems.org'
    gem 'faker'
    gem 'factory_girl_rails'
  end
+
